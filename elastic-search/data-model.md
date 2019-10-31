@@ -5,7 +5,7 @@
 
 ## 다양한 Mapping Type
 
-1) 전문 검색을 위한 text Type
+__1. 전문 검색을 위한 text Type__
 
 text type은 전문 검색을 위해 사용하는 타입이다. text type은 매핑 옵션으로 `analyzed` 속성을
 지정할 수 있다.
@@ -15,18 +15,18 @@ text type은 분석기를 통해 전문을 형태소 단위로 나눈 후, 각 �
 검색이 상수시간안에 이루어지도록 처리한다. 역 인덱스 테이블은 해쉬맵이라고 생각하면 쉬운데, 아래 이미지를
 참고하자.
 
-[!reverse-table]()
+[!reverse-table](https://github.com/heesuk-ahn/today-I-leanred/blob/master/static/elastic-search/reverse-table.png?raw=true)
 
-2) 집계를 위해 사용하는 keyword
+__2. 집계를 위해 사용하는 keyword__
 
 집계를 위해서 사용하는 것은 keyword가 있다. keyword는 정적 타입이기 때문에 집계할 때 자주 사용될 수 있다.
 
-3) normalizer를 통해 문자 통일하기
+__3. normalizer를 통해 문자 통일하기__
 
 만약 cafe, Cafe가 인덱스가 된다면, 실제로 둘다 같은 단어이지만 검색에 입장에서는 그렇지 않을 수 있다.
 normalizer는 이런 cafe와 Cafe가 같은 단어로 인지될 수 있도록 필터처리를 해줄 수 있는 옵션이다.
 
-4) dynamic 으로 동적 매핑 타입 지정을 못하도록 설정가능
+__4. dynamic 으로 동적 매핑 타입 지정을 못하도록 설정가능__
 
 엘라스틱 서치는 스키마리스로 만약 우리가 인덱스 디비에 매핑 타입을 미리 설정해 놓지 않았다면, 들어오는
 Json 프로퍼티들을 확인하고 그에 적절한 타입을 매핑시켜서 저장한다.
@@ -41,18 +41,19 @@ Json 프로퍼티들을 확인하고 그에 적절한 타입을 매핑시켜서 
  - strict 설정시 : 새로운 필드가 감지되면 예외가 발생하고, 문서 자체가 색인되지 않는다. 새로 유입되는 필드는
  사용자가 매핑에 명시적으로 추가해야한다.
 
-5) 필드에 다중 매핑 타입을 지정할 때는 `fields`를 사용하자.
+__5. 필드에 다중 매핑 타입을 지정할 때는 `fields`를 사용하자.__
 
 만약 어떤 필드가 `keyword`로 집계에도 사용되어야 하며, 전문 검색도 되어야 한다면 어떨까?
 이 경우에 해당 필드는 `keywrod`와 `text` 둘다 매핑되어야 한다.
  엘라스틱 서치는 이런 니즈를 적용하기 위해 `fields` 타입을 제공하며, 이를 통해 다중 타입을
 서포트한다.
+
 ## 매번 매핑 타입을 인덱스에 지정하는 것은 귀찮으므로, 매핑 템플릿을 활용하자.
 
 mapping 템플릿을 미리 만들어 두면, 인덱스 패턴이 매칭되는 인덱스들에게는 해당 매핑 템플릿을
 자동 적용할 수 있다. 공통 설정을 위한 setting을 통해서 샤드의 수 또한 사용할 수 있으니 간편하다.
 
-[!template]()
+[!template](https://github.com/heesuk-ahn/today-I-leanred/blob/master/static/elastic-search/template.png?raw=true)
 
 위의 이미지는 발표자료 준비했을 때 만든 자료의 일부분이다. 위에 보면 template를 `twitter` 인덱스 패턴이
 매칭될 경우, 아래 mapping들이 적용되도록 설정하였다.
