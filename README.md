@@ -10,5 +10,5 @@ Small knowledge gathers to become large knowledge.
 
 * [Gradle이란](gradle/gradle-intro.md)
 * [Gradle-Plugin에 대해서](gradle/gradle-plugin.md)
-* [Gradle-Project에 대해서](gradle/gradle-project.md)
+* [Gradle-Project에 대해서](gradle/gradle-project-api.md)
 * [Gradle-BuildScript](gradle/gradle-build-script.md)
