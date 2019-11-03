@@ -8,5 +8,10 @@
   * 문제가 있는 pod은 재시작한다.
 * kubernetes 는 이런 헬스체크를 위해 2가지를 제공한다
   * Liveness probe : 컨테이너 애플리케이션이 문제가 생긴다면 앱을 재시작한다.
+
+  ![LivenessProbe](../static/kubernetes/livenessprobe.png)
+
   * Readiness probe : 컨테이너 애플리케이션이 문제가 생겼고, configuration 등의 문제로
   앱을 재시작 한다 하더라도 애플리케이션을 정상적으로 실행할 수 없을 때, 서비스 노드에서 제외시킨다.
+
+  ![readinessProbe](../static/kubernetes/readinessProbe.png)
