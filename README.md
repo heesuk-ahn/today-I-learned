@@ -21,6 +21,10 @@ Small knowledge gathers to become large knowledge.
 
 * [sidecar pattern이란](design-patterns/side-car-pattern.md)
 
+## deploy
+
+* [canary 배포 전략](deploy/deploy-canary.md)
+
 ## etc
 
 * [RSS란](etc/rss.md)
