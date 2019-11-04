@@ -17,6 +17,10 @@ Small knowledge gathers to become large knowledge.
 * [Gradle-Project에 대해서](gradle/gradle-project-api.md)
 * [Gradle-BuildScript](gradle/gradle-build-script.md)
 
+## design-patterns
+
+* [sidecar pattern이란](design-patterns/side-car-pattern.md)
+
 ## etc
 
 * [RSS란](etc/rss.md)
