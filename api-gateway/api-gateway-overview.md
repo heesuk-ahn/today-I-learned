@@ -61,8 +61,8 @@
 * API Gateway는 내부적으로는 REST 나 gRPC 프로토콜을 함께 사용하더라도, 외부 사용자에게는 RESTful API만 제공 할 수 있다.
 * 필요할 경우에는 일부 API 에 대한 구현은 외부로 노출된 RESTful API를 내부 gRPC 기반으로 변환할 수도 있다.
 
-참고)
-https://brunch.co.kr/@springboot/38 API Gateway Pattern
-https://microservices.io/patterns/apigateway.html  [API Gateway Pattern - `Single Entry Point`, `Variation Pattern`]
-https://freecontent.manning.com/the-api-gateway-pattern/ [The API Gateway Pattern]
-https://microservices.io/patterns/data/api-composition.html [API Composition]
+* 참고)
+  * https://brunch.co.kr/@springboot/38 API Gateway Pattern
+  * https://microservices.io/patterns/apigateway.html  [API Gateway Pattern - `Single Entry Point`, `Variation Pattern`]
+  * https://freecontent.manning.com/the-api-gateway-pattern/ [The API Gateway Pattern]
+  * https://microservices.io/patterns/data/api-composition.html [API Composition]
