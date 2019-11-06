@@ -29,6 +29,10 @@ Small knowledge gathers to become large knowledge.
 
 * [canary 배포 전략](deploy/deploy-canary.md)
 
+## Spring
+
+* [bean singleton](spring/bean-singleton.md)
+
 ## etc
 
 * [RSS란](etc/rss.md)
