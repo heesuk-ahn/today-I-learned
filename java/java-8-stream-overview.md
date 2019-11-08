@@ -77,7 +77,6 @@ List<String> threeHighCaloricDishNames =
 * 스트림은 lazy 하기 때문에, 데이터를 요청할 때만 값을 계산한다. 이런 특징을 `요청 중심 제조 (demand-driven manufacturing) 또는`just-in-time-menuefacturing` 이라고 부른다.
 * 컬렉션은 eager evaluation 이기 때문에, 적극적으로 계산된다. (생산자 중심 supplier-driven :  팔기도 전에 창고를 가득 채움)
 
-
 ## 스트림 연산
 
 * java.util.stream.Stream 인터페이스는 많은 연산을 정의한다.
@@ -110,4 +109,4 @@ List<String> threeHighCaloricDishNames =
 
 
 
-## 참고 공부자료) https://12bme.tistory.com/461#recentEntries [java map이란]
+### 참고 공부자료) https://12bme.tistory.com/461#recentEntries [java map이란]
