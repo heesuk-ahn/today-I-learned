@@ -40,6 +40,7 @@ Small knowledge gathers to become large knowledge.
 ## Spring
 
 * [bean singleton](spring/bean-singleton.md)
+* [@SpringBootAnnotation 의 @ComponentScan 범위](spring/bean-scan-spring-annotation.md)
 
 ## etc
 
