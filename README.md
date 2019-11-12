@@ -42,6 +42,15 @@ Small knowledge gathers to become large knowledge.
 * [bean singleton](spring/bean-singleton.md)
 * [@SpringBootAnnotation 의 @ComponentScan 범위](spring/bean-scan-spring-annotation.md)
 
+## lambda
+
+* [람다 대수란 무엇인가](lambda/what-is-lambda.md)
+
+## python
+
+* [python에서의 lambda 사용 예제](python/python-lambda.md)
+* [python venv 환경](python/python-venv.md)
+
 ## etc
 
 * [RSS란](etc/rss.md)
