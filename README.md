@@ -36,6 +36,7 @@ Small knowledge gathers to become large knowledge.
 ## Java
 
 * [java-8-stream-api](java/java-8-stream-overview.md)
+* [자바8에서 인터페이스와 추상클래스](java/java-8-interface-vs-abstract.md)
 
 ## Spring
 
