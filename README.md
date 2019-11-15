@@ -28,6 +28,8 @@ Small knowledge gathers to become large knowledge.
 ##  clean-code
 
 * [코드 가독성 - 도입과 원칙](clean-code/clean-code-rule.md)
+* [코드 리뷰는 왜 해야하는가 (1)](clean-code/code-review.md)
+* [코드 리뷰는 왜 해야하는가 (2)](clean-code/code-review2.md)
 
 ## deploy
 
