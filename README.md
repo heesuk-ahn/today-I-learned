@@ -63,3 +63,4 @@ Small knowledge gathers to become large knowledge.
 
 * [RSS란](etc/rss.md)
 * [라인의 장애 처리 프로세스](etc/error-report-process-by-line.md)
+* [The Twelve-Factor App - “설정"](etc/config-by-twelve-factor.md)
