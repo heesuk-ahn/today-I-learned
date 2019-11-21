@@ -20,7 +20,7 @@
 
 ## Hystix Isolation overview
 
-![hystrix-isolation](../static/spring/hystix-Isolation.png)
+![hystrix-isolation](../static/spring/hystrix-isolation.png)
 
 * 그렇다면, 세마포 격리 방식이 thread pool 방식보다는 좋은 것 아닌가?
   * 많은 스레드를 사용하면서 발생하는 CPU 오버헤드가 발생하지 않기 때문에.
