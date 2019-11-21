@@ -47,6 +47,7 @@ Small knowledge gathers to become large knowledge.
 * [Spring boot 2.2 부터 Immutable properties 사용 가능](spring/immutable-property.md)
 * [`@Configuration` vs `@ConfigurationProperties`](spring/configuration-vs-configuration-property.md)
 * [Hystrix - Isolation 전략 Thread vs Semaphore](spring/hystrix-isolation.md)
+* [Spring-Cloud bootstrap.yml 파일](spring/bootstrap-yml-file.md)
 
 ## lambda
 
