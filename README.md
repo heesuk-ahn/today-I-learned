@@ -46,6 +46,7 @@ Small knowledge gathers to become large knowledge.
 * [@SpringBootAnnotation 의 @ComponentScan 범위](spring/bean-scan-spring-annotation.md)
 * [Spring boot 2.2 부터 Immutable properties 사용 가능](spring/immutable-property.md)
 * [`@Configuration` vs `@ConfigurationProperties`](spring/configuration-vs-configuration-property.md)
+* [Hystrix - Isolation 전략 Thread vs Semaphore](spring/hystrix-isolation.md)
 
 ## lambda
 
