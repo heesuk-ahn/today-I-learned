@@ -48,6 +48,7 @@ Small knowledge gathers to become large knowledge.
 * [`@Configuration` vs `@ConfigurationProperties`](spring/configuration-vs-configuration-property.md)
 * [Hystrix - Isolation 전략 Thread vs Semaphore](spring/hystrix-isolation.md)
 * [Spring-Cloud bootstrap.yml 파일](spring/bootstrap-yml-file.md)
+* [Spring-Data-JPA 연관관계 (단방향)](spring/spring-data-jpa-singgle-mapping.md)
 
 ## lambda
 
