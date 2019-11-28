@@ -51,6 +51,7 @@ Small knowledge gathers to become large knowledge.
 * [Spring-Data-Jpa 연관관계 (단방향)](spring/spring-data-jpa-singgle-mapping.md)
 * [Spring Data Jpa 연관관계 (양방향)](spring/spring-data-jpa-bidirectional.md)
 * [Spirng `@WebFluxTest` 어노테이션](spring/spring-webflux-unit-test.md)
+* [Spring `@JsonCreator` 어노테이션](spring/jsoncreator-annotation.md)
 
 ## lambda
 
