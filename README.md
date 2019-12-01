@@ -80,3 +80,4 @@ Small knowledge gathers to become large knowledge.
 * [RSS란](etc/rss.md)
 * [라인의 장애 처리 프로세스](etc/error-report-process-by-line.md)
 * [The Twelve-Factor App - “설정"](etc/config-by-twelve-factor.md)
+* [[프로그래밍 패러다임] 선언형 프로그래밍 vs 명령형 프로그래밍](etc/programming-paradigm.md)
