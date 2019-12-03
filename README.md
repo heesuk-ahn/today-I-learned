@@ -53,6 +53,7 @@ Small knowledge gathers to become large knowledge.
 * [Spirng `@WebFluxTest` 어노테이션](spring/spring-webflux-unit-test.md)
 * [Spring `@JsonCreator` 어노테이션](spring/jsoncreator-annotation.md)
 * [Spring Dependency Management `BOM`](spring/spring-dependency-management-bom.md)
+* [Lombok annotation - @EqualsAndHashCode(callSuper = true)](spirng/lombok-equals-and-hash.md)
 
 ## lambda
 
