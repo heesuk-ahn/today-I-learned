@@ -55,6 +55,7 @@ Small knowledge gathers to become large knowledge.
 * [Spring Dependency Management `BOM`](spring/spring-dependency-management-bom.md)
 * [Lombok annotation - @EqualsAndHashCode(callSuper = true)](spirng/lombok-equals-and-hash.md)
 * [Jedis dependecny configuration](spring/jedis-notfound.md)
+* [EntityManagerFactory, EntitiyManager, PersistenceContext란?](spring/entity-manager.md)
 
 ## lambda
 
