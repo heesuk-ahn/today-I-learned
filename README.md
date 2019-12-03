@@ -54,6 +54,7 @@ Small knowledge gathers to become large knowledge.
 * [Spring `@JsonCreator` 어노테이션](spring/jsoncreator-annotation.md)
 * [Spring Dependency Management `BOM`](spring/spring-dependency-management-bom.md)
 * [Lombok annotation - @EqualsAndHashCode(callSuper = true)](spirng/lombok-equals-and-hash.md)
+* [Jedis dependecny configuration](spring/jedis-notfound.md)
 
 ## lambda
 
