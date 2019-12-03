@@ -16,6 +16,7 @@ Small knowledge gathers to become large knowledge.
 * [Gradle-Plugin에 대해서](gradle/gradle-plugin.md)
 * [Gradle-Project에 대해서](gradle/gradle-project-api.md)
 * [Gradle-BuildScript](gradle/gradle-build-script.md)
+* [transitive dependency란](gradle/transitive-dependency.md)
 
 ## design-patterns
 
