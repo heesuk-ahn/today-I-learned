@@ -17,7 +17,7 @@ Small knowledge gathers to become large knowledge.
 * [Gradle-Project에 대해서](gradle/gradle-project-api.md)
 * [Gradle-BuildScript](gradle/gradle-build-script.md)
 * [transitive dependency란](gradle/transitive-dependency.md)
-* [‘버전’을 직접 입력하지 않아도 임포트되는 dependencies with bom](gralde/without-version-bom.md)
+* [버전을 직접 입력하지 않아도 임포트되는 dependencies with bom](gradle/without-version-bom.md)
 
 ## design-patterns
 
