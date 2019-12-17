@@ -42,6 +42,7 @@ Small knowledge gathers to become large knowledge.
 * [java-8-stream-api](java/java-8-stream-overview.md)
 * [자바8에서 인터페이스와 추상클래스](java/java-8-interface-vs-abstract.md)
 * [Java 8 Function<T, R>](java/java-8-function.md)
+* [Java 8 BiFunction<T, U, R>](java/java-8-bifunction.md)
 
 ## Spring
 

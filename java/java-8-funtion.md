@@ -16,4 +16,5 @@ Integer result = convertStrToInt.apply("1");
 
 List<String> stringNumbers = List.of("1", "2", "3");
 List<Integer> convertedNumbers = stringNumbers.stream().map(convertStrToInt);
+
 ```
