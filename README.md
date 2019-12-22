@@ -43,6 +43,7 @@ Small knowledge gathers to become large knowledge.
 * [자바8에서 인터페이스와 추상클래스](java/java-8-interface-vs-abstract.md)
 * [Java 8 Function<T, R>](java/java-8-function.md)
 * [Java 8 BiFunction<T, U, R>](java/java-8-bifunction.md)
+* [Java 8 `orElse` 와 `orElseGet` 차이](java/java-8-orelse-orelseget.md)
 
 ## Spring
 
