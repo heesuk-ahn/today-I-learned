@@ -61,6 +61,7 @@ Small knowledge gathers to become large knowledge.
 * [Lombok annotation - @EqualsAndHashCode(callSuper = true)](spirng/lombok-equals-and-hash.md)
 * [Jedis dependecny configuration](spring/jedis-notfound.md)
 * [EntityManagerFactory, EntitiyManager, PersistenceContext란?](spring/entity-manager.md)
+* [Spring ApplicationEventPublisher](spring/application-event-publisher.md)
 
 ## lambda
 
