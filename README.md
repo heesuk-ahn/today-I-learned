@@ -62,6 +62,7 @@ Small knowledge gathers to become large knowledge.
 * [Jedis dependecny configuration](spring/jedis-notfound.md)
 * [EntityManagerFactory, EntitiyManager, PersistenceContext란?](spring/entity-manager.md)
 * [Spring ApplicationEventPublisher](spring/application-event-publisher.md)
+* [스프링 AOP 살펴보기](spring/spring-aop.md)
 
 ## lambda
 
