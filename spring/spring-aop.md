@@ -1,11 +1,11 @@
 
-# [TIL] 스프링 AOP
+# [TIL] 스프링 AOP 살펴보기
 
 * AOP 란 관점지향 프로그래밍 언어라고도 한다.
 * AOP는 프로그램의 핵심인 __비즈니스 로직과 분리되는 횡단관심사(cross-cutting concern)를 분리하여 모듈화하여 설계하고 개발하는 방법론__
 이다.
 
-![crosscutting](../static/spring/apo-crosscutting.png)
+![crosscutting](../static/spring/aop-crosscutting.png)
 
 * 위와 같이 __횡단관심사를 따로 분리하여 핵심로직에 영향을 주지않고 핵심로직에서 벗어나 새로운 관점에서 바라본다하여 관점지향 프로그래밍(AOP)라 한다.__
 
