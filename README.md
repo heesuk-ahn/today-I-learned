@@ -101,6 +101,10 @@ Small knowledge gathers to become large knowledge.
 
 * [JS Dev ecosystem](js/js-dev-ecosystem.md)
 
+## git
+
+* [git remote 를 ssh로 변경하기](git/change-git-remote-to-ssh.md)
+
 ## etc
 
 * [RSS란](etc/rss.md)
