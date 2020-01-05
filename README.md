@@ -105,6 +105,9 @@ Small knowledge gathers to become large knowledge.
 
 * [git remote 를 ssh로 변경하기](git/change-git-remote-to-ssh.md)
 
+## scala
+
+* [스칼라 공변성이란?](scala/covariant.md)
 ## etc
 
 * [RSS란](etc/rss.md)
