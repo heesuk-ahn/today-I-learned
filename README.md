@@ -49,6 +49,7 @@ Small knowledge gathers to become large knowledge.
 * [Java 8 BiFunction<T, U, R>](java/java-8-bifunction.md)
 * [Java 8 `orElse` 와 `orElseGet` 차이](java/java-8-orelse-orelseget.md)
 * [Java 8 람다 캡처링](java/lambda-capturing.md)
+* [Java 12 Shenandoah-gc](java/java-12-shenandoah-gc.md)
 
 ## Spring
 
