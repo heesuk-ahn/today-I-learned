@@ -114,6 +114,10 @@ Small knowledge gathers to become large knowledge.
 
 * [스칼라 공변성이란?](scala/covariant.md)
 
+## network
+
+* [MimeType 이란?](network/what-is-mime-type.md)
+
 ## etc
 
 * [RSS란](etc/rss.md)
