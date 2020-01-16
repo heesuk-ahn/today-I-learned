@@ -69,6 +69,7 @@ Small knowledge gathers to become large knowledge.
 * [EntityManagerFactory, EntitiyManager, PersistenceContext란?](spring/entity-manager.md)
 * [Spring ApplicationEventPublisher](spring/application-event-publisher.md)
 * [스프링 AOP 살펴보기](spring/spring-aop.md)
+* [스프링 AOP 살펴보기 - 프록시패턴과 AOP](spring/spring-aop-proxy-pattern.md)
 
 ## lambda
 
