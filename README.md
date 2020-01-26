@@ -25,6 +25,7 @@ Small knowledge gathers to become large knowledge.
 
 * [sidecar pattern이란](design-patterns/side-car-pattern.md)
 * [프록시 패턴이란](design-patterns/proxy-pattern.md)
+* [10가지 아키텍처 - 계층화 패턴](design-patterns/10-architecture-layered.md)
 
 ## api-Gateway
 
