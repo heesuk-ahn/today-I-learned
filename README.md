@@ -37,6 +37,7 @@ Small knowledge gathers to become large knowledge.
 * [코드 리뷰는 왜 해야하는가 (1)](clean-code/code-review.md)
 * [코드 리뷰는 왜 해야하는가 (2)](clean-code/code-review2.md)
 * [의미있는 이름 - 의도를 분명히 밝혀라](clean-code/naming/clean-code-naming1.md)
+* [Extract Class](clean-code/extract-class.md)
 
 ## deploy
 
