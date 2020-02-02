@@ -47,7 +47,7 @@ Small knowledge gathers to become large knowledge.
 
 * [java-8-stream-api](java/java-8-stream-overview.md)
 * [자바8에서 인터페이스와 추상클래스](java/java-8-interface-vs-abstract.md)
-* [Java 8 Function<T, R>](java/java-8-function.md)
+* [Java 8 Function<T, R>](java/java-8-funtion.md)
 * [Java 8 BiFunction<T, U, R>](java/java-8-bifunction.md)
 * [Java 8 `orElse` 와 `orElseGet` 차이](java/java-8-orelse-orelseget.md)
 * [Java 8 람다 캡처링](java/lambda-capturing.md)
