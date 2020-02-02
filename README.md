@@ -49,10 +49,12 @@ Small knowledge gathers to become large knowledge.
 * [자바8에서 인터페이스와 추상클래스](java/java-8-interface-vs-abstract.md)
 * [Java 8 Function<T, R>](java/java-8-funtion.md)
 * [Java 8 BiFunction<T, U, R>](java/java-8-bifunction.md)
+* [Java 8 Consumer<T>](java/java-8-consumer.md)
 * [Java 8 `orElse` 와 `orElseGet` 차이](java/java-8-orelse-orelseget.md)
 * [Java 8 람다 캡처링](java/lambda-capturing.md)
 * [Java 12 Shenandoah-gc](java/java-12-shenandoah-gc.md)
 * [Garbage Collector란](java/what-is-gc.md)
+* [[Java Functional Library Varv] Try 를 이용하여 Exception Handling](java/varv/varv-try-example.md)
 
 ## Spring
 
