@@ -54,7 +54,8 @@ Small knowledge gathers to become large knowledge.
 * [Java 8 람다 캡처링](java/lambda-capturing.md)
 * [Java 12 Shenandoah-gc](java/java-12-shenandoah-gc.md)
 * [Garbage Collector란](java/what-is-gc.md)
-* [[Java Functional Library Varv] Try 를 이용하여 Exception Handling](java/varv/varv-try-example.md)
+* [[Java Functional Library Varv] Try 를 이용하여 Exception Handling](java/vavr/vavr-try-example.md)
+* [Java method parameter `final`가 의미하는 것은?](java/parameter-final.md)
 
 ## Spring
 
