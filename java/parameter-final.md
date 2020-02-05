@@ -1,9 +1,5 @@
 # Java method parameter `final`가 의미하는 것은?
 
-Java always makes a copy of parameters before sending them to methods.
- This means the final doesn't mean any difference for the calling code.
-  This only means that inside the method the variables can not be reassigned. (note that if you have a final object, you can still change the attributes of the object).
-
 * 자바에서 method 파라미터에 final 키워드를 사용하는 경우들이 있다.
 * 자바는 항상 메서드에 파라미터를 전달하기 전에 파라미터들을 copy 한 후 전달한다.
 * 그렇기 때문에 `final` 을 붙인다고 해서 메서드를 콜 할때 특별한 일이 일어나는 것은 아니다.
