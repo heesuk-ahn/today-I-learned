@@ -53,7 +53,8 @@ Try<Integer> sideEffectTwo = Try.of(() -> (Integer) value).recoverWith(throwable
 Try<Integer> res = sideEffectOne
         .flatMapTry(v1 -> sideEffectTwo
         .flatMapTry(v2 -> Try.of(() -> v1 + v2)))
-        .onFailure(throwable -> System.out.println("Exception!! --> " + throwable.getMessage()));
+        .onSuccess(s -> log.info("success!"))
+        .onFailure(throwable -> log.error("Exception!! --> " + throwable.getMessage()));
 
 // Exception!! --> First Exception
 ```
@@ -63,5 +64,3 @@ Try<Integer> res = sideEffectOne
 * 하지만, `sideEffectOne` 에서 `Exception` 이 발생한 경우이다.
 * 이 경우, 만약 따로 `onFailure` 로 조합된 값에서 핸들링을 하지 않는다면, `new RuntimeException("First Exception")` 이 발생하게 될 것이다.
 * 하지만, onFailure 로 맨 마지막에 발생된 `Exception` 을 핸들링 해 줄 수도 있다.
-* 활용해보기 좋은 경우는 Java 에서 Local File에 Write 를 하는 경우도 있다.
-* `Try` 를 통해서 아래 Local File 처리를 refactoring 해보자.
