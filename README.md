@@ -80,6 +80,10 @@ Small knowledge gathers to become large knowledge.
 * [스프링 AOP 살펴보기 - 프록시패턴과 AOP](spring/spring-aop-proxy-pattern.md)
 * [스프링 batch란?](spring/spring-batch/what-is-batch.md)
 
+## TDD
+
+* [Java Junit 에서 Log 테스트하기](tdd/log-unit-test.md)
+
 ## lambda
 
 * [람다 대수란 무엇인가](lambda/what-is-lambda.md)
