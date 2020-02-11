@@ -21,13 +21,13 @@ a.intersect(b); //교집합 : HashSet(3, 4, 5)
 
 ## diff API
 
-![diff](../static/java/vavr/hashset-diff.png)
+![diff](../../static/java/vavr/hashset-diff.png)
 
 * 차집합의 경우는 내부적으로 filter 를 통해서 구현되어있고, 그렇기 때문에 `O(N)` 시간이다.
 
 ## merge API
 
-![merge](../static/java/vavr/hashset-merge.png)
+![merge](../../static/java/vavr/hashset-merge.png)
 
 * 합집합의 경우에는 `foldLeft` 를 이용해서 왼쪽부터 오른쪽으로 순회하며 합치기 때문에  `O(N)`
 시간이다.
@@ -35,7 +35,7 @@ a.intersect(b); //교집합 : HashSet(3, 4, 5)
 
 ## intersect API
 
-![intersect](../static/java/vavr/hashset-intersect.png)
+![intersect](../../static/java/vavr/hashset-intersect.png)
 
 * 교집합의 경우에는 내부적으로 `filter` 를 이용해서 겹치는 것만 남기므로, `O(N)` 이다.
 
@@ -46,4 +46,4 @@ a.intersect(b); //교집합 : HashSet(3, 4, 5)
 이라는 성능을 보여준다.
 * 또한, `집합`의 다양한 개념들을 `API`로 구현해놨기 때문에 비즈니스 로직에 따라서 활용하기에 좋다.
 * `Vavr` 는 불변의 Set 데이터 구조를 구현하였기 때문에, `map`, `filter`, `flatMap` 등 다양한
-함수 오퍼레이션 또한 사용할 수 있다. 
+함수 오퍼레이션 또한 사용할 수 있다.
