@@ -86,6 +86,7 @@ Small knowledge gathers to become large knowledge.
 ## Spring cloud
 
 * [Ribbon Eager Load 설정](spring/spring-cloud/ribbon-eager-load.md)
+* [Spirng Cloud 환경 변수 관리를 위한 Config, Consul, Archaius 간단히 살펴보기](spring/spring-cloud/config-and-consul-and-archaius.md)
 
 ## TDD
 
