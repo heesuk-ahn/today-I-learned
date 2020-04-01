@@ -10,6 +10,7 @@ Small knowledge gathers to become large knowledge.
 
 * [Readiness probe 와 Liveness probe](kubernetes/healthcheck.md)
 * [Helm 이란](kubernetes/what-is-helm.md)
+* [쿠버네티스 볼륨 - 퍼시스턴트 볼륨과 퍼시스턴트 볼륨 클레임](kubernetes/kubernetes-volume.md)
 
 ## gradle
 
