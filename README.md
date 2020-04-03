@@ -59,6 +59,7 @@ Small knowledge gathers to become large knowledge.
 * [Java 12 Shenandoah-gc](java/java-12-shenandoah-gc.md)
 * [Garbage Collector란](java/what-is-gc.md)
 * [Java method parameter `final`가 의미하는 것은?](java/parameter-final.md)
+* [Value Based Class](java/value-based-class.md)
 * [[vavr] 자바 순수함수 라이브러리 VAVR란?(1)](java/vavr/what-is-vavr-libary.md)
 * [[vavr] Try 를 이용하여 Exception Handling](java/vavr/vavr-try-example.md)
 * [[vavr] Set 사용해보기](java/vavr/vavr-set-api.md)
