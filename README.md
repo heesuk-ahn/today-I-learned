@@ -63,6 +63,7 @@ Small knowledge gathers to become large knowledge.
 * [[vavr] 자바 순수함수 라이브러리 VAVR란?(1)](java/vavr/what-is-vavr-libary.md)
 * [[vavr] Try 를 이용하여 Exception Handling](java/vavr/vavr-try-example.md)
 * [[vavr] Set 사용해보기](java/vavr/vavr-set-api.md)
+* [Optional을 올바르게 사용하기](java/optional-practice.md)
 
 ## Spring
 
