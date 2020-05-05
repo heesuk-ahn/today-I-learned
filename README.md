@@ -154,6 +154,11 @@ Small knowledge gathers to become large knowledge.
 
 * [Resilience4j Introduction](opensource/resilience4j/intro-resilience4j.md)
 
+## msa
+
+* [아키텍트에 대한 진화적 관점](msa/evolutionary-perspective.md)
+* [기술 부채](msa/technical-debt.md)
+
 ## etc
 
 * [RSS란](etc/rss.md)
