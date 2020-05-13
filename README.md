@@ -86,6 +86,7 @@ Small knowledge gathers to become large knowledge.
 * [스프링 AOP 살펴보기](spring/spring-aop.md)
 * [스프링 AOP 살펴보기 - 프록시패턴과 AOP](spring/spring-aop-proxy-pattern.md)
 * [스프링 batch란?](spring/spring-batch/what-is-batch.md)
+* [스프링과 캐시](spring/spring-cache.md)
 
 ## Spring cloud
 
