@@ -154,6 +154,11 @@ Small knowledge gathers to become large knowledge.
 ## opensource
 
 * [Resilience4j Introduction](opensource/resilience4j/intro-resilience4j.md)
+* [Archaius Overview](opensource/archaius/archaius-overview.md)
+* [Archaius Get Started](opensource/archaius/archaius-get-started.md)
+* [Archaius User Guide](opensource/archaius/archaius-user-guide.md)
+* [Archaius Dynamic Properties Validation](opensource/archaius/archaius-prop-validation.md)
+* [Archaius Deployment Context](opensource/archaius/archaius-deployment-context.md)
 
 ## msa
 
