@@ -12,9 +12,9 @@
   작업 공수가 늘어나는 일이다.
 * 중앙에서 코드를 관리한다면 위와 같은 문제를 해결할 수 있다.
 
-![code-env](../static/opensource/code-env.png)
+![code-env](../../static/opensource/archaius/code-env.png)
 
-![code-env2](../static/opensource/code-env2.png)
+![code-env2](../../static/opensource/archaius/code-env2.png)
 
 ## Archaius Overview
 
@@ -30,7 +30,7 @@
   * JConsole 을 통해 액세스하여 프로퍼티에 대해 호출하고 프로퍼티 값을 확인할 수 있는 JMX MBean
   * 우선순위 순서에 따라서 configuration들을 합성하여 사용가능
 
-![sample-conf](../static/opensource/sample-conf.png)
+![sample-conf](../../static/opensource/archaius/sample-conf.png)
 
 * Archaius 의 핵심은 하나 이상의 configuration 을 보유할 수 있는 composite configuration
 이다.
