@@ -88,7 +88,7 @@ AbstractConfiguration config = ...
 ConfigJMXManager.registerConfigMbean(config);
 ```
 
-![jmx](../../static/opensource/archaius/jmx.png)
+![jmx](../static/opensource/archaius/jmx.png)
 
 * 위 이미지는 `obtainProperties()` 오퍼레이션이 호출 될 때 properties 들이 나오는 화면을
 캡쳐한 것이다.
