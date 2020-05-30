@@ -17,7 +17,7 @@
 * 또 Zookeeper 의 주요한 기능중 하나인 `Watcher`를 사용하면, 특정 노드 데이터에 변화가 감지되면
 클라이언트에게 콜백을 통해 변경 여부를 알려줄 수도 있다.
 
-![znode-01](../static/opensource/znode01.png)
+![znode-01](../../static/opensource/znode01.png)
 
 ## Zookeeper 의 노드
 
@@ -61,7 +61,7 @@
 * 만약 팔로어 중 과반수의 팔로어로 부터 쓰기 명령을 수행할 수 있다는 응답을 받으면, 리더는 팔로어에게
 데이터를 쓰도록 지시한다.
 
-![zookeeper-write](../static/opensource/zooKeeper-write.png)
+![zookeeper-write](../../static/opensource/zooKeeper-write.png)
 
 * 만약 연결을 맺은 Zookeeper 서버에 문제가 생겨서 세션이 종료되면, 다른 Zookeeper 서버로 재 접속을
 시도한다.
