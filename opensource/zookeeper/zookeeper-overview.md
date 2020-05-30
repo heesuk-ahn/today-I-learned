@@ -61,7 +61,7 @@
 * 만약 팔로어 중 과반수의 팔로어로 부터 쓰기 명령을 수행할 수 있다는 응답을 받으면, 리더는 팔로어에게
 데이터를 쓰도록 지시한다.
 
-![zookeeper-write](../../static/opensource/zookeeper-write.png)
+![zookeeper-write](../../static/opensource/zookeper-write.png)
 
 * 만약 연결을 맺은 Zookeeper 서버에 문제가 생겨서 세션이 종료되면, 다른 Zookeeper 서버로 재 접속을
 시도한다.
