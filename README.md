@@ -160,6 +160,7 @@ Small knowledge gathers to become large knowledge.
 * [Archaius Dynamic Properties Validation](opensource/archaius/archaius-prop-validation.md)
 * [Archaius Deployment Context](opensource/archaius/archaius-deployment-context.md)
 * [분산 처리 환경에서 사용 가능한 데이터 저장소, Zookeeper](opensource/zookeeper/zookeeper-overview.md)
+* [분산 KEY-VALUE 스토어 ETCD 살펴보기](opensource/etcd/etcd-overview.md)
 
 ## msa
 
