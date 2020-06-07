@@ -167,6 +167,10 @@ Small knowledge gathers to become large knowledge.
 * [아키텍트에 대한 진화적 관점](msa/evolutionary-perspective.md)
 * [기술 부채](msa/technical-debt.md)
 
+## database
+
+* [binary log 란?](database/binary-log.md)
+
 ## etc
 
 * [RSS란](etc/rss.md)
