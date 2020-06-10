@@ -146,6 +146,10 @@ Small knowledge gathers to become large knowledge.
 * [MimeType 이란?](network/what-is-mime-type.md)
 * [Connection Timeout 과 Read Timeout](network/read-and-connection-timeout.md)
 
+## infra
+
+* [Nas 란?](infra/nas.md)
+
 ## Containers
 
 * [리눅스 커널의 cgroups 이란?](container/what-is-cgroup.md)
