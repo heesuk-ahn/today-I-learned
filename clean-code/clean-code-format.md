@@ -43,8 +43,6 @@ public class Foo {
 * 빈행을 없애면 암호문 처럼 보일 것이다.
 
 ```
-
-```
 public class Foo {
   private final int val;
   private final int val2;
