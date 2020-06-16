@@ -66,6 +66,7 @@ Small knowledge gathers to become large knowledge.
 * [[vavr] Try 를 이용하여 Exception Handling](java/vavr/vavr-try-example.md)
 * [[vavr] Set 사용해보기](java/vavr/vavr-set-api.md)
 * [Optional을 올바르게 사용하기](java/optional-practice.md)
+* [이왕이면 Generic Type으로 만들라.](java/generic-type.md)
 
 ## Spring
 
