@@ -31,6 +31,7 @@ Small knowledge gathers to become large knowledge.
 * [프록시 패턴이란](design-patterns/proxy-pattern.md)
 * [10가지 아키텍처 - 계층화 패턴](design-patterns/10-architecture-layered.md)
 * [Factory Pattern](design-patterns/factory-pattern.md)
+* [점진적 개선 - Strangler Pattern](design-patterns/strangler-pattern.md)
 
 ## api-Gateway
 
