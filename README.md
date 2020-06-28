@@ -187,3 +187,4 @@ Small knowledge gathers to become large knowledge.
 * [스프링 부트 실행이 로컬 mac 환경에서 느릴 때](etc/slow-spring-boot.md)
 * [소프트웨어 장인 정신 - 일을 하는 것도 중요하지만 어떻게 하는지도 중요하다.](etc/software-craftmanship-1.md)
 * [암달의 법칙이란](etc/Amdahl-raw.md)
+* [기술을 안다는 것](etc/learning-skills.md)
