@@ -178,6 +178,7 @@ Small knowledge gathers to become large knowledge.
 ## database
 
 * [binary log 란?](database/binary-log.md)
+* [CPA 이론과 모순](database/cpa.md)
 
 ## etc
 
