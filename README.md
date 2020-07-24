@@ -45,7 +45,7 @@ Small knowledge gathers to become large knowledge.
 * [의미있는 이름 - 의도를 분명히 밝혀라](clean-code/naming/clean-code-naming1.md)
 * [Extract Class](clean-code/extract-class.md)
 * [형식 맞추기](clean-code/clean-code-format.md)
-* [이펙티브 자바 - 생성자 대신 정적 팩터리 메서드를 고려하라](clean-code/factory-method.md) 
+* [이펙티브 자바 - 생성자 대신 정적 팩터리 메서드를 고려하라](clean-code/factory-method.md)
 
 ## deploy
 
@@ -179,6 +179,7 @@ Small knowledge gathers to become large knowledge.
 
 * [binary log 란?](database/binary-log.md)
 * [CPA 이론과 모순](database/cpa.md)
+* [CPA 를 보완하기 위한 PACLE 이론](database/pacle.md)
 
 ## etc
 
