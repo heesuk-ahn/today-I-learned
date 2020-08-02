@@ -69,6 +69,7 @@ Small knowledge gathers to become large knowledge.
 * [[vavr] Set 사용해보기](java/vavr/vavr-set-api.md)
 * [Optional을 올바르게 사용하기](java/optional-practice.md)
 * [이왕이면 Generic Type으로 만들라.](java/generic-type.md)
+* [Java의 예외처리](java/java-exception.md)
 
 ## Spring
 
