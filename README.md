@@ -70,6 +70,7 @@ Small knowledge gathers to become large knowledge.
 * [Optional을 올바르게 사용하기](java/optional-practice.md)
 * [이왕이면 Generic Type으로 만들라.](java/generic-type.md)
 * [Java의 예외처리](java/java-exception.md)
+* [sneaky Throws (몰래 예외처리하기) 란?](java/sneaky-throws.md)
 
 ## Spring
 
