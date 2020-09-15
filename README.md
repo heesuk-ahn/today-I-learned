@@ -32,6 +32,7 @@ Small knowledge gathers to become large knowledge.
 * [10가지 아키텍처 - 계층화 패턴](design-patterns/10-architecture-layered.md)
 * [Factory Pattern](design-patterns/factory-pattern.md)
 * [점진적 개선 - Strangler Pattern](design-patterns/strangler-pattern.md)
+* [Bulk-Head Pattern](design-patterns/bulk-head-pattern.md)
 
 ## api-Gateway
 
