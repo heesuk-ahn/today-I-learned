@@ -72,6 +72,7 @@ Small knowledge gathers to become large knowledge.
 * [이왕이면 Generic Type으로 만들라.](java/generic-type.md)
 * [Java의 예외처리](java/java-exception.md)
 * [sneaky Throws (몰래 예외처리하기) 란?](java/sneaky-throws.md)
+* [Java ScheduledExecutorService](java/scheduled-executor-service-overview.md)
 
 ## Spring
 
