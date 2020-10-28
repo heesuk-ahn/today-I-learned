@@ -195,6 +195,7 @@ Small knowledge gathers to become large knowledge.
 ## DevOps
 
 * [SRE (Site Reliability Engineering) 이란?](devops/what-is-sre.md)
+* [가용성 - 시스템이 다운되지 않고 정상 운영되는 시간의 비율](devops/availability.md)
 
 ## etc
 
