@@ -122,6 +122,7 @@ Small knowledge gathers to become large knowledge.
 ## React
 
 * [react 란? (1)](react/what-is-react.md)
+* [react 란? (2)](react/what-is-react-2.md)
 
 ## React-Native
 
