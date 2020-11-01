@@ -123,6 +123,7 @@ Small knowledge gathers to become large knowledge.
 
 * [react 란? (1)](react/what-is-react.md)
 * [react 란? (2)](react/what-is-react-2.md)
+* [Container & Component 아키텍처 패턴](react/container-component-pattern.md)
 
 ## React-Native
 
