@@ -187,6 +187,7 @@ Small knowledge gathers to become large knowledge.
 * [Archaius Deployment Context](opensource/archaius/archaius-deployment-context.md)
 * [분산 처리 환경에서 사용 가능한 데이터 저장소, Zookeeper](opensource/zookeeper/zookeeper-overview.md)
 * [분산 KEY-VALUE 스토어 ETCD 살펴보기](opensource/etcd/etcd-overview.md)
+* [대규모 확장이 가능한 분산 추적 시스템 Grafana Tempo 발표](opensource/grafana/tempo-release.md)
 
 ## msa
 
