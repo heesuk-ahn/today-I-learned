@@ -199,6 +199,7 @@ Small knowledge gathers to become large knowledge.
 * [binary log 란?](database/binary-log.md)
 * [CPA 이론과 모순](database/cpa.md)
 * [CPA 를 보완하기 위한 PACLE 이론](database/pacle.md)
+* [WAL 파일이란? (Write Ahead Log)](database/wal-file.md)
 
 ## DevOps
 
