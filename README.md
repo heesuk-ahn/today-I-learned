@@ -13,6 +13,12 @@ Small knowledge gathers to become large knowledge.
 * [쿠버네티스 볼륨 - 퍼시스턴트 볼륨과 퍼시스턴트 볼륨 클레임](kubernetes/kubernetes-volume.md)
 * [kustomize `namePrefix` 와 `nameSuffix`](kubernetes/kustomization-name-prefix.md)
 
+## cloud
+
+* [Istio 는 미래의 Hybrid cloud 의 역할을 할 수 있다.]
+
+
+
 ## gradle
 
 * [Gradle이란](gradle/gradle-intro.md)
@@ -217,3 +223,4 @@ Small knowledge gathers to become large knowledge.
 * [암달의 법칙이란](etc/Amdahl-raw.md)
 * [기술을 안다는 것](etc/learning-skills.md)
 * [하인리히의 법칙](etc/heinrich-raw.md)
+* [Chunk 지향 처리](etc/chunk.md)
