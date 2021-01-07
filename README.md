@@ -16,6 +16,7 @@ Small knowledge gathers to become large knowledge.
 ## cloud
 
 * [Istio 는 미래의 Hybrid cloud 의 역할을 할 수 있다](cloud/istio-hybrid-cloud.md)
+* [Istio ServiceEntry란?](cloud/istio-service-entry.md)
 
 ## gradle
 
