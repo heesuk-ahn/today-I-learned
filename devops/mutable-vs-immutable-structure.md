@@ -31,7 +31,7 @@
  물론, 현재는 사용자가 사용 종료를 하면 매번 새롭게 초기화를 하여 이런 문제를 해결했다.
 ---
 
-![snow-flake](static/devops/snow-flake.png)
+![snow-flake](../static/devops/snow-flake.png)
 
 SnowFlake 서버는 멀리서보면 같은 서버처럼 보이지만, 사실 눈송이 처럼 가까이서보면 모두 다르게 생긴 것이다. 이렇기 때문에 사실 눈송이 서버들은 운영할 때 부담이 생길 수 밖에 없고, 한 두대가 아니라, 수십대, 수백대의 눈송이 서버라면 관리하기가 더욱 어려워진다.
  이런 단점을 극복하고자 `Immutable Infra Strcture` 가 필요하게 되었다.
