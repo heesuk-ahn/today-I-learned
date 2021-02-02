@@ -79,6 +79,7 @@ Small knowledge gathers to become large knowledge.
 * [Java의 예외처리](java/java-exception.md)
 * [sneaky Throws (몰래 예외처리하기) 란?](java/sneaky-throws.md)
 * [Java ScheduledExecutorService](java/scheduled-executor-service-overview.md)
+* [생성자에 매개변수가 많다면 빌더패턴을 고려하라](java/effective-java/item-2-builder-pattern.md)
 
 ## Spring
 
