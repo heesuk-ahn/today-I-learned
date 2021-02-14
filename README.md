@@ -227,3 +227,4 @@ Small knowledge gathers to become large knowledge.
 * [기술을 안다는 것](etc/learning-skills.md)
 * [하인리히의 법칙](etc/heinrich-raw.md)
 * [Chunk 지향 처리](etc/chunk.md)
+* [개발자의 글쓰기](etc/developer_write_method.md)
